@@ -1,0 +1,12 @@
+C:\Sofiia\VSProject\HostelNaUOA.Core\bin\Debug\net5.0\HostelNaUOA.Core.deps.json
+C:\Sofiia\VSProject\HostelNaUOA.Core\bin\Debug\net5.0\HostelNaUOA.Core.dll
+C:\Sofiia\VSProject\HostelNaUOA.Core\bin\Debug\net5.0\ref\HostelNaUOA.Core.dll
+C:\Sofiia\VSProject\HostelNaUOA.Core\bin\Debug\net5.0\HostelNaUOA.Core.pdb
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.csproj.AssemblyReference.cache
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.AssemblyInfoInputs.cache
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.AssemblyInfo.cs
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.csproj.CoreCompileInputs.cache
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.dll
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\ref\HostelNaUOA.Core.dll
+C:\Sofiia\VSProject\HostelNaUOA.Core\obj\Debug\net5.0\HostelNaUOA.Core.pdb
